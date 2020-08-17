@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AboutMe3</string>
+    <string name="test_username">Test Username!</string>
+    <string name="star_image">Image of star</string>
+    <string name="bio_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab cumque cupiditate dolorem ea eum id, qui. Aspernatur,
+        beatae cumque deserunt dicta, et, explicabo molestiae nam nihil totam ut voluptas voluptatibus. Lorem ipsum dolor sit amet, consectetur adipisici
+        ng elit. Adipisci, alias asperiores atque cupiditate, delectus esse explicabo id in laboriosam minima m
+        olestias nam obcaecati optio ratione sed soluta vel voluptatibus voluptatum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur cupiditate expedita facilis fugiat in iste laboriosam nisi nobis ullam voluptate. Consequatur eaque eius fugit ipsam, molestias nesciunt quidem ratione suscipit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias cupiditate dolores error ipsa ipsam nihil odit porro quidem, rem tempora tempore unde voluptate? Eum fugiat illo iure mollitia nisi sed! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque cum deleniti dolorum ea eos ipsum natus odit pariatur tenetur! Non officia, placeat porro quos repudiandae voluptate? Doloremque labore optio rem! </string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="avatar_image">Avatar image</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
